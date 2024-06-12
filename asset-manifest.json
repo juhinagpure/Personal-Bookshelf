@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/juhinagpure/Personal-Bookshelf/settings/pages/static/css/main.bfb8b28d.css",
+    "main.js": "/juhinagpure/Personal-Bookshelf/settings/pages/static/js/main.ae4178d9.js",
+    "index.html": "/juhinagpure/Personal-Bookshelf/settings/pages/index.html",
+    "main.bfb8b28d.css.map": "/juhinagpure/Personal-Bookshelf/settings/pages/static/css/main.bfb8b28d.css.map",
+    "main.ae4178d9.js.map": "/juhinagpure/Personal-Bookshelf/settings/pages/static/js/main.ae4178d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb8b28d.css",
+    "static/js/main.ae4178d9.js"
+  ]
+}
